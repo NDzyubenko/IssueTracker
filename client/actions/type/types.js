@@ -1,0 +1,4 @@
+export const GET_TYPES_REQUEST = 'GET_TYPES_REQUEST';
+export const GET_TYPES_SUCCESS = 'GET_TYPES_SUCCESS';
+export const GET_TYPES_FAIL = 'GET_TYPES_FAIL';
+export const SAVE_TYPES = 'SAVE_TYPES';
